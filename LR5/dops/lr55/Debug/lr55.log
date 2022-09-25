@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Сергей\Desktop\Лабораторные работы\ОАиП\лр5\лр55\Source.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Сергей\Desktop\Лабораторные работы\ОАиП\лр5\лр55\Source.cpp(5,22): warning C4305: инициализация: усечение из "double" в "float"
+  лр55.vcxproj -> C:\Users\Сергей\Desktop\Лабораторные работы\ОАиП\лр5\лр55\Debug\лр55.exe

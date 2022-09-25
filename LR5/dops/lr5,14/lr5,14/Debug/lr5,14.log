@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (лр5,14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(6,10): warning C4305: =: усечение из "double" в "float"
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(6,30): warning C4305: =: усечение из "double" в "float"
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(9,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(10,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(13,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\лр5,14\Source.cpp(5,23): warning C4101: e: неиспользованная локальная переменная
+  лр5,14.vcxproj -> F:\1 курс\1 семестр\ОАиП\LR5\dops\lr5,14\Debug\lr5,14.exe

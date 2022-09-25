@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\лаба 3 1\Debug\лаба 3 1.exe
+C:\Users\User\source\repos\лаба 3 1\Debug\лаба 3 1.pdb
+D:\c++\лаба 3 1\Debug\лаба 3 1.exe
+D:\c++\лаба 3 1\Debug\лаба 3 1.pdb
